@@ -1,0 +1,26 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "password"
+    }
+  ],
+  "maintenance-requests": [
+    {
+      "name": "John",
+      "problem": "Broken Window",
+      "id": 5
+    },
+    {
+      "name": "Jane",
+      "problem": "No flow of water",
+      "id": 7
+    },
+    {
+      "name": "Jack",
+      "problem": "Toilet flush not working",
+      "id": 10
+    }
+  ]
+}
